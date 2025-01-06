@@ -1,8 +1,6 @@
 
 ##
-##    	Autor: Smythy Costa
-##      Email: smythy.costa@gmail.com
-##      GITHub: github.com/smythycosta
+##    	Autor: viniciuspbrandao
 ##
 
 	
